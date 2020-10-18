@@ -1,0 +1,92 @@
+.fotoCero {
+    background-color: gainsboro;
+}
+
+.todoInfo {
+    text-align: center;
+    color: white;
+}
+
+.info {
+    background-color: rgb(78, 78, 78);
+}
+
+.logoUno {
+    background-color: rgb(69, 69, 69);
+}
+
+.infoDos {
+    background-color: rgb(61, 61, 61);
+}
+
+.logoDos {
+    background-color: rgb(56, 56, 56);
+}
+
+.Nombre {
+    text-align: justify;
+}
+
+.Prof {
+     font-size: 18px;
+     text-align: justify;
+}
+
+.uno {
+    background-color: rgb(0, 190, 156);
+}
+
+.dos {
+    background-color: rgb(0, 153, 220);
+}
+
+.tres {
+    background-color: rgb(179, 88, 183);
+}
+
+.cuatro {
+    background-color: rgb(255, 127, 43);
+}
+
+.cinco {
+    background-color: rgb(255, 75, 66);
+}
+
+.seis {
+    background-color: rgb(240, 169, 45);
+}
+
+.rojo {
+    color: red;
+}
+
+.negrilla {
+    font-weight: bold;
+}
+
+.der {
+    background-color: rgb(239, 239, 239);
+}
+
+.tituGran {
+    font-weight: bold;
+}
+
+.etiqueta {
+    font-weight: bold;
+    color: black;
+}
+
+.trabajos {
+    background-color: rgb(179, 88, 183);
+    color: white;
+}
+
+.trabFal {
+    color: rgb(179, 88, 183);
+}
+
+.graficas {
+    background-color: rgb(0, 153, 220);
+    color: white;
+}
